@@ -49,7 +49,7 @@ my %WriteMakefile = (
 	'NAME'	        => $module,
 	'ABSTRACT_FROM' => $main_file,
 	'VERSION_FROM'  => $main_file,
-	'LICENSE'       => 'perl',
+	'LICENSE'       => 'artistic_2',
 	'AUTHOR'        => 'Jennie Rose Evers-Corvina <seven@nanabox.net>',
 
 	'CONFIGURE_REQUIRES' => {

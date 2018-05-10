@@ -94,6 +94,12 @@ off basic one-off hops and requests.
 
 Jennie Rose Evers-Corvina C<< <seven@nanabox.net> >>,
 Matt S. Trout (mst) C<< <mst@shadowcat.co.uk> >>
+=head1 SOURCE AVAILABILITY
+
+This project is in GitHub:
+
+	https://github.com/briandfoy/net-ssh-perl-withsocks
+
 
 =head1 COPYRIGHT
 

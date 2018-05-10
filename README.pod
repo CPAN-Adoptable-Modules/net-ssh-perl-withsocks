@@ -2,11 +2,11 @@
 
 =encoding utf8
 
-=for HTML <a href="https://travis-ci.org/briandfoy/Net-SSH-Perl-WithSocks"><img src="https://travis-ci.org/briandfoy/Net-SSH-Perl-WithSocks.svg?branch=master" /></a>
+=for HTML <a href="https://travis-ci.org/briandfoy/net-ssh-perl-withsocks"><img src="https://travis-ci.org/briandfoy/net-ssh-perl-withsocks.svg?branch=master" /></a>
 
-=for HTML <a href='https://coveralls.io/github/briandfoy/Net-SSH-Perl-WithSocks?branch=master'><img src='https://coveralls.io/repos/github/briandfoy/Net-SSH-Perl-WithSocks/badge.svg?branch=master' alt='Coverage Status' /></a>
+=for HTML <a href='https://coveralls.io/github/briandfoy/net-ssh-perl-withsocks?branch=master'><img src='https://coveralls.io/repos/github/briandfoy/net-ssh-perl-withsocks/badge.svg?branch=master' alt='Coverage Status' /></a>
 
-=for HTML <a href="https://github.com/briandfoy/Net-SSH-Perl-WithSocks/blob/master/LICENSE"><img src="https://img.shields.io/cpan/l/Net-SSH-Perl-WithSocks.svg" /></a>
+=for HTML <a href="https://github.com/briandfoy/net-ssh-perl-withsocks/blob/master/LICENSE"><img src="https://img.shields.io/cpan/l/Net-SSH-Perl-WithSocks.svg" /></a>
 
 =for HTML <a href="http://www.metacpan.org/module/Net::SSH::Perl::WithSocks"><img src="https://img.shields.io/cpan/v/Net-SSH-Perl-WithSocks.svg" /></A>
 
@@ -79,16 +79,16 @@ the source repository:
 
 =over 4
 
-=item *	L<https://github.com/briandfoy/Net-SSH-Perl-WithSocks>
+=item *	L<https://github.com/briandfoy/net-ssh-perl-withsocks>
 
 =back
 
 If you find a problem, file a ticket in the L<issue
-tracker|https://github.com/briandfoy/Net-SSH-Perl-WithSocks/issues>:
+tracker|https://github.com/briandfoy/net-ssh-perl-withsocks/issues>:
 
 =over 4
 
-=item *	L<https://github.com/briandfoy/Net-SSH-Perl-WithSocks/issues>
+=item *	L<https://github.com/briandfoy/net-ssh-perl-withsocks/issues>
 
 =back
 

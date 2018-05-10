@@ -2,13 +2,12 @@ package Net::SSH::Perl::WithSocks;
 use strict;
 use warnings;
 use parent qw(Net::SSH::Perl);
-use vars qw($VERSION);
 
 require v5.10; # Dependency Math-GMP-2.15 requires 5.10
                # Todo investigate if the module is required
                # and if we could use older or change module
-               
-$VERSION = '0.021_03';
+
+our $VERSION = '0.022';
 
 =encoding utf8
 
@@ -94,12 +93,12 @@ off basic one-off hops and requests.
 
 Jennie Rose Evers-Corvina C<< <seven@nanabox.net> >>,
 Matt S. Trout (mst) C<< <mst@shadowcat.co.uk> >>
+
 =head1 SOURCE AVAILABILITY
 
 This project is in GitHub:
 
 	https://github.com/briandfoy/net-ssh-perl-withsocks
-
 
 =head1 COPYRIGHT
 

@@ -7,7 +7,7 @@ require v5.10; # Dependency Math-GMP-2.15 requires 5.10
                # Todo investigate if the module is required
                # and if we could use older or change module
 
-our $VERSION = '0.022';
+our $VERSION = '0.023';
 
 =encoding utf8
 

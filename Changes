@@ -1,5 +1,8 @@
 Revision history for Perl module Net::SSH::Perl::WithSocks
 
+0.023 2018-07-10T19:53:07Z
+	* Freshen distro
+
 0.02 - 2011-07-16
 	* Cleaned up the dist
 	* Nerfed the tests until we can generalize them. We need a

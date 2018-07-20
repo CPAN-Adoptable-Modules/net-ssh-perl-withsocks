@@ -10,7 +10,7 @@
 
 =for HTML <a href="https://github.com/briandfoy/net-ssh-perl-withsocks/blob/master/LICENSE"><img src="https://img.shields.io/cpan/l/Net-SSH-Perl-WithSocks.svg" /></a>
 
-=for HTML <a href="http://www.metacpan.org/module/Net::SSH::Perl::WithSocks"><img src="https://img.shields.io/cpan/v/Net-SSH-Perl-WithSocks.svg" /></A>
+=for HTML <a href="https://metacpan.org/pod/Net::SSH::Perl::WithSocks"><img src="https://img.shields.io/cpan/v/Net-SSH-Perl-WithSocks.svg" /></A>
 
 =head1 The Net::SSH::Perl::WithSocks module
 
@@ -23,7 +23,7 @@ for any Perl module.
 
 To read about L<Net::SSH::Perl::WithSocks>, look at the embedded documentation
 in the module itself. Inside the distribution, you can format it
-with L<perldoc|http://perldoc.perl.org/perldoc.html>:
+with L<perldoc|https://perldoc.perl.orgperldoc.html>:
 
 	% perldoc lib/Net/SSH/Perl/WithSocks.pm
 
@@ -33,7 +33,7 @@ name instead of the file location:
 	% perldoc Net::SSH::Perl::WithSocks
 
 You can read the documentation and inspect the meta data at
-L<MetaCPAN|http://www.metacpan.org/module/Net::SSH::Perl::WithSocks>.
+L<MetaCPAN|https://metacpan.org/pod/Net::SSH::Perl::WithSocks>.
 
 The standard module documentation has example uses in the SYNOPSIS
 section, but you can also look in the I<examples/> directory (if it's
